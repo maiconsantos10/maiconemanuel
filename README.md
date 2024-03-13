@@ -1,6 +1,6 @@
 Olá ! Eu sou o Maicon Emanuel
 
-💻 Sou graduando de Análise e Desenvolvimento de Sistemas pela UNISUAM
+💻 Sou graduando de Análise e Desenvolvimento de Sistemas pela UNISUAM (5/5)
 📚 Sempre buscando o constante aprendizado dentre as linguagens de programação e o mundo TECH
 👨🏽‍🎓 Formando 2024.1
 
